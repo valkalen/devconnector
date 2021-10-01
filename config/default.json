@@ -1,4 +1,6 @@
 {
     "mongoUri": "mongodb+srv://val123:val123@mern.90xgn.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
-    "jwtSecret": "mysecrettoken"
+    "jwtSecret": "mysecrettoken",
+    "githubClientId": "c460faa03dd81104ec8b",
+    "githubSecret": "7eb8bbf948d4e75cb823e94770a164bfb9268c78"
 }
